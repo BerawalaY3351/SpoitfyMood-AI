@@ -27,6 +27,11 @@ How It Works 🛠️
 3. Spotify API Search: Fetches random songs matching the detected mood.
 4. Terminal Output: Prints the song list with Spotify links.
 
+Result:
+<img src="MoodPlayListAI.png">
+
+<img src="MoodPlaylistML.png">
+
 Future Enhancements 🚀
 🔹 Improve ML Training Data – Expand labeled dataset to refine mood classification.
 
