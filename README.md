@@ -30,7 +30,11 @@ How It Works 🛠️
 Result:
 <img src="MoodPlayListAI.png">
 
+This was tested with OpenAI.
+
 <img src="MoodPlaylistML.png">
+
+This is tested with my Machine Learning Model train.
 
 Future Enhancements 🚀
 🔹 Improve ML Training Data – Expand labeled dataset to refine mood classification.
